@@ -1,0 +1,1 @@
+This file is created in branch 2 to keep it ahead from other branches, especially branch 1.
